@@ -16,6 +16,25 @@ public class Test {
 
         //Different JVM ,JRE and JDK
         //Obfuscation
-        //swapping two variabled values without using third variable
+        //swapping two variables values without using third variable
+
+        //0 when added it gets converted to octal
+        //0x when added it gets converted to hexadecimal
+        //0b hen added it gets converted to binary
+
+        //For Boolean 0 is False
+        //For Boolean 1 is True
+
+        //Char has exactly one value 'A'
+
+        //ASCII Code - 1 byte
+        //Unicode Code -2 byte
+
+        //How to take input
+
+
+        float a =3.14F;
+        double d = 3.45d;
     }
+
 }
