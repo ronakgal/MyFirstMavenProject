@@ -8,7 +8,7 @@ public class Test1 {
 
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a number");
-        int num1 = sc.nextInt(); //num1 is 123
+        int num1 = sc.nextInt(); //num1 is the number entered by user in the console
 
         int num = num1%10; //num is 3
         int tempno = num; // tempno is 3
