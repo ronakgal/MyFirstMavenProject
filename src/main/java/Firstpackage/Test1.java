@@ -18,7 +18,7 @@ public class Test1 {
         int c =num2/10;
 
 
-        System.out.println("Reverse number of "+num1+ " is "+tempno+""+b+""+c);
+        System.out.println("The Reverse number of "+num1+ " is "+tempno+""+b+""+c);
 
         }
 }
